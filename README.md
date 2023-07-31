@@ -1,4 +1,4 @@
 # temperature_converter
--HTML
--CSS
--JAVA SCRIPT 
+- USING HTML
+- USING CSS
+- USING JAVA SCRIPT 
